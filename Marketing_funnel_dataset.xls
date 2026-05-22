@@ -1,0 +1,501 @@
+Customer_ID,Date,Channel,Campaign,Device,Region,Stage_Visited,Converted_To_Next,Revenue,Leads,Clicks,Impressions,Conversion_Rate_Percent
+C0001,2026-01-29,Google Ads,Brand Awareness,Mobile,Bangalore,Retention,Yes,2824,62,37,5012,59.68
+C0002,2026-01-04,Instagram Ads,Retargeting,Mobile,Chandigarh,Retention,Yes,9935,94,74,1520,78.72
+C0003,2026-02-23,Google Ads,Festive Offer,Tablet,Jaipur,Purchase,Yes,1434,337,121,9928,35.91
+C0004,2026-02-05,Google Ads,Retargeting,Desktop,Delhi,Awareness,Yes,0,407,236,6574,57.99
+C0005,2026-03-19,Facebook Ads,Winter Sale,Tablet,Pune,Awareness,No,0,99,65,6635,65.66
+C0006,2026-04-17,LinkedIn Ads,New Launch,Desktop,Chandigarh,Purchase,Yes,3045,243,40,5803,16.46
+C0007,2026-04-09,Facebook Ads,Winter Sale,Mobile,Hyderabad,Interest,Yes,0,73,62,4733,84.93
+C0008,2026-01-21,Facebook Ads,Search Campaign,Mobile,Bangalore,Awareness,No,0,192,136,6977,70.83
+C0009,2026-03-10,LinkedIn Ads,Retargeting,Mobile,Pune,Consideration,Yes,0,361,345,3803,95.57
+C0010,2026-03-29,Facebook Ads,Winter Sale,Mobile,Hyderabad,Intent,No,0,377,372,4598,98.67
+C0011,2026-01-28,Email Marketing,Brand Awareness,Desktop,Mumbai,Awareness,No,0,255,88,2084,34.51
+C0012,2026-01-19,Facebook Ads,Retargeting,Mobile,Bangalore,Retention,Yes,9179,252,246,8517,97.62
+C0013,2026-04-25,Email Marketing,Festive Offer,Desktop,Mumbai,Purchase,Yes,9830,184,169,8019,91.85
+C0014,2026-01-20,LinkedIn Ads,Retargeting,Tablet,Pune,Interest,No,0,96,26,2796,27.08
+C0015,2026-03-09,Facebook Ads,New Launch,Mobile,Bangalore,Purchase,Yes,2040,247,117,8668,47.37
+C0016,2026-04-09,LinkedIn Ads,Search Campaign,Mobile,Jaipur,Retention,Yes,2876,399,294,5371,73.68
+C0017,2026-03-06,Google Ads,New Launch,Mobile,Hyderabad,Intent,Yes,0,282,21,5315,7.45
+C0018,2026-03-19,Google Ads,Retargeting,Desktop,Hyderabad,Retention,Yes,5889,480,347,9317,72.29
+C0019,2026-01-03,Instagram Ads,Search Campaign,Desktop,Mumbai,Interest,Yes,0,356,185,9005,51.97
+C0020,2026-01-11,LinkedIn Ads,Festive Offer,Mobile,Hyderabad,Awareness,Yes,0,499,310,2290,62.12
+C0021,2026-03-12,Google Ads,Search Campaign,Tablet,Hyderabad,Purchase,Yes,3060,115,104,8787,90.43
+C0022,2026-04-02,Facebook Ads,Festive Offer,Tablet,Bangalore,Purchase,Yes,7932,158,158,4295,100.0
+C0023,2026-02-01,Google Ads,Winter Sale,Desktop,Delhi,Consideration,No,0,314,251,2982,79.94
+C0024,2026-01-10,LinkedIn Ads,Brand Awareness,Mobile,Mumbai,Purchase,Yes,4770,351,132,1117,37.61
+C0025,2026-03-07,Google Ads,Search Campaign,Tablet,Pune,Awareness,Yes,0,490,189,2160,38.57
+C0026,2026-02-01,YouTube Ads,Festive Offer,Mobile,Delhi,Interest,Yes,0,420,312,8744,74.29
+C0027,2026-03-01,LinkedIn Ads,Winter Sale,Tablet,Bangalore,Awareness,No,0,231,128,7735,55.41
+C0028,2026-04-13,Instagram Ads,Retargeting,Mobile,Mumbai,Retention,Yes,2612,81,45,6559,55.56
+C0029,2026-02-05,YouTube Ads,Retargeting,Mobile,Pune,Purchase,Yes,8350,121,74,4006,61.16
+C0030,2026-04-18,Instagram Ads,Winter Sale,Mobile,Mumbai,Purchase,Yes,2604,75,61,9856,81.33
+C0031,2026-04-26,Instagram Ads,Retargeting,Desktop,Delhi,Intent,No,0,296,129,7570,43.58
+C0032,2026-02-06,YouTube Ads,Brand Awareness,Tablet,Hyderabad,Intent,No,0,451,421,8454,93.35
+C0033,2026-01-28,Instagram Ads,New Launch,Tablet,Chandigarh,Purchase,Yes,8973,129,44,5861,34.11
+C0034,2026-03-06,Email Marketing,Retargeting,Mobile,Chandigarh,Awareness,No,0,79,23,8811,29.11
+C0035,2026-02-21,Instagram Ads,New Launch,Mobile,Chandigarh,Awareness,Yes,0,85,28,4853,32.94
+C0036,2026-03-26,Email Marketing,New Launch,Tablet,Jaipur,Purchase,Yes,1651,367,61,7868,16.62
+C0037,2026-01-31,Facebook Ads,Festive Offer,Mobile,Bangalore,Consideration,Yes,0,392,386,6147,98.47
+C0038,2026-01-02,YouTube Ads,New Launch,Tablet,Delhi,Retention,Yes,5915,284,181,2188,63.73
+C0039,2026-04-30,Facebook Ads,Winter Sale,Mobile,Jaipur,Awareness,Yes,0,309,155,3170,50.16
+C0040,2026-04-01,Facebook Ads,New Launch,Tablet,Chandigarh,Consideration,Yes,0,274,233,9900,85.04
+C0041,2026-02-03,Instagram Ads,Winter Sale,Tablet,Chandigarh,Awareness,No,0,389,73,3200,18.77
+C0042,2026-04-02,Facebook Ads,Retargeting,Tablet,Bangalore,Interest,No,0,194,174,4450,89.69
+C0043,2026-03-23,YouTube Ads,Search Campaign,Mobile,Delhi,Consideration,No,0,178,33,2512,18.54
+C0044,2026-04-05,YouTube Ads,New Launch,Tablet,Pune,Consideration,Yes,0,376,154,3647,40.96
+C0045,2026-03-11,Instagram Ads,Search Campaign,Tablet,Chandigarh,Purchase,Yes,1158,107,29,3442,27.1
+C0046,2026-02-16,Instagram Ads,Search Campaign,Mobile,Bangalore,Interest,No,0,115,25,6050,21.74
+C0047,2026-03-21,LinkedIn Ads,Retargeting,Mobile,Hyderabad,Interest,Yes,0,231,219,7658,94.81
+C0048,2026-04-05,Facebook Ads,Festive Offer,Tablet,Hyderabad,Interest,Yes,0,261,26,3938,9.96
+C0049,2026-02-18,Instagram Ads,Festive Offer,Mobile,Mumbai,Retention,Yes,5065,186,60,2771,32.26
+C0050,2026-01-04,LinkedIn Ads,Retargeting,Desktop,Jaipur,Intent,No,0,206,78,4652,37.86
+C0051,2026-03-24,Email Marketing,Festive Offer,Tablet,Hyderabad,Consideration,Yes,0,445,162,6753,36.4
+C0052,2026-01-23,Email Marketing,Search Campaign,Mobile,Delhi,Purchase,Yes,6425,64,27,5279,42.19
+C0053,2026-02-25,Email Marketing,New Launch,Mobile,Pune,Purchase,Yes,8119,226,206,6139,91.15
+C0054,2026-01-01,Email Marketing,New Launch,Tablet,Bangalore,Purchase,Yes,4114,180,31,8144,17.22
+C0055,2026-03-27,Facebook Ads,New Launch,Desktop,Bangalore,Retention,Yes,4228,236,130,2146,55.08
+C0056,2026-02-11,YouTube Ads,Brand Awareness,Desktop,Chandigarh,Awareness,No,0,309,178,7691,57.61
+C0057,2026-03-28,LinkedIn Ads,Retargeting,Tablet,Chandigarh,Interest,Yes,0,265,190,7211,71.7
+C0058,2026-02-06,Google Ads,Festive Offer,Tablet,Chandigarh,Consideration,No,0,330,20,5978,6.06
+C0059,2026-03-28,Google Ads,New Launch,Desktop,Hyderabad,Retention,Yes,6279,288,246,8244,85.42
+C0060,2026-03-07,LinkedIn Ads,Brand Awareness,Tablet,Jaipur,Retention,Yes,3780,387,63,5649,16.28
+C0061,2026-04-14,Google Ads,Retargeting,Mobile,Delhi,Awareness,Yes,0,394,178,4680,45.18
+C0062,2026-02-23,LinkedIn Ads,New Launch,Mobile,Bangalore,Interest,No,0,362,57,8461,15.75
+C0063,2026-01-19,LinkedIn Ads,Brand Awareness,Mobile,Hyderabad,Retention,Yes,7291,303,224,4997,73.93
+C0064,2026-03-01,Instagram Ads,New Launch,Mobile,Hyderabad,Awareness,No,0,162,65,9486,40.12
+C0065,2026-03-13,Email Marketing,Search Campaign,Desktop,Chandigarh,Awareness,No,0,118,79,9702,66.95
+C0066,2026-02-27,Google Ads,Brand Awareness,Desktop,Pune,Retention,Yes,9270,268,232,9976,86.57
+C0067,2026-04-09,Email Marketing,Festive Offer,Tablet,Mumbai,Consideration,Yes,0,480,346,5543,72.08
+C0068,2026-02-04,Facebook Ads,Search Campaign,Tablet,Delhi,Consideration,No,0,89,56,4841,62.92
+C0069,2026-04-01,Google Ads,Winter Sale,Desktop,Pune,Interest,Yes,0,168,118,3503,70.24
+C0070,2026-04-17,YouTube Ads,Festive Offer,Tablet,Bangalore,Consideration,No,0,262,35,4388,13.36
+C0071,2026-02-08,YouTube Ads,Festive Offer,Tablet,Bangalore,Awareness,No,0,294,23,6763,7.82
+C0072,2026-03-04,Google Ads,Search Campaign,Desktop,Pune,Retention,Yes,9947,459,328,4613,71.46
+C0073,2026-04-03,Google Ads,Festive Offer,Mobile,Chandigarh,Awareness,No,0,222,191,7624,86.04
+C0074,2026-01-11,LinkedIn Ads,Festive Offer,Mobile,Hyderabad,Purchase,Yes,1441,251,171,1444,68.13
+C0075,2026-02-11,Google Ads,Festive Offer,Desktop,Jaipur,Intent,Yes,0,75,36,7211,48.0
+C0076,2026-04-17,Instagram Ads,Festive Offer,Mobile,Bangalore,Intent,No,0,435,235,5133,54.02
+C0077,2026-04-10,LinkedIn Ads,Winter Sale,Mobile,Mumbai,Purchase,Yes,1853,229,77,2124,33.62
+C0078,2026-01-17,YouTube Ads,Brand Awareness,Mobile,Chandigarh,Interest,Yes,0,368,98,4908,26.63
+C0079,2026-01-22,Email Marketing,New Launch,Tablet,Bangalore,Interest,No,0,408,151,7043,37.01
+C0080,2026-04-29,Facebook Ads,New Launch,Tablet,Pune,Awareness,Yes,0,209,47,1420,22.49
+C0081,2026-03-31,Facebook Ads,Brand Awareness,Tablet,Hyderabad,Intent,Yes,0,88,51,2669,57.95
+C0082,2026-03-26,Facebook Ads,Winter Sale,Tablet,Bangalore,Awareness,Yes,0,227,156,8018,68.72
+C0083,2026-01-14,YouTube Ads,Search Campaign,Tablet,Hyderabad,Consideration,Yes,0,484,235,9031,48.55
+C0084,2026-03-25,Facebook Ads,New Launch,Tablet,Hyderabad,Intent,Yes,0,272,65,9548,23.9
+C0085,2026-02-11,Google Ads,Winter Sale,Desktop,Pune,Intent,No,0,273,231,5397,84.62
+C0086,2026-02-13,Instagram Ads,Festive Offer,Desktop,Mumbai,Interest,No,0,341,332,7209,97.36
+C0087,2026-02-13,Facebook Ads,New Launch,Tablet,Jaipur,Intent,Yes,0,231,224,5232,96.97
+C0088,2026-01-31,LinkedIn Ads,Festive Offer,Desktop,Chandigarh,Purchase,Yes,1166,314,117,2402,37.26
+C0089,2026-04-12,Instagram Ads,Winter Sale,Desktop,Mumbai,Interest,No,0,380,271,8342,71.32
+C0090,2026-03-02,Email Marketing,New Launch,Desktop,Pune,Intent,Yes,0,206,189,7046,91.75
+C0091,2026-02-04,Facebook Ads,Search Campaign,Mobile,Delhi,Retention,Yes,6419,230,199,8434,86.52
+C0092,2026-04-08,LinkedIn Ads,Retargeting,Mobile,Mumbai,Retention,Yes,4155,211,50,9779,23.7
+C0093,2026-03-18,Facebook Ads,Winter Sale,Mobile,Jaipur,Retention,Yes,8933,191,170,9595,89.01
+C0094,2026-04-01,Email Marketing,Retargeting,Desktop,Delhi,Interest,No,0,141,58,1231,41.13
+C0095,2026-01-14,Instagram Ads,New Launch,Desktop,Pune,Awareness,No,0,407,84,9042,20.64
+C0096,2026-02-02,YouTube Ads,Winter Sale,Mobile,Pune,Intent,No,0,224,67,1841,29.91
+C0097,2026-01-20,Google Ads,New Launch,Desktop,Delhi,Intent,Yes,0,345,342,1878,99.13
+C0098,2026-04-10,Email Marketing,Festive Offer,Desktop,Pune,Interest,Yes,0,335,233,4697,69.55
+C0099,2026-03-20,LinkedIn Ads,Winter Sale,Mobile,Bangalore,Consideration,No,0,206,165,1986,80.1
+C0100,2026-01-31,Google Ads,New Launch,Mobile,Mumbai,Interest,No,0,388,61,3573,15.72
+C0101,2026-01-05,Google Ads,Search Campaign,Tablet,Jaipur,Awareness,No,0,280,260,5771,92.86
+C0102,2026-04-11,LinkedIn Ads,New Launch,Tablet,Hyderabad,Retention,Yes,8438,86,49,5334,56.98
+C0103,2026-03-24,Google Ads,Search Campaign,Mobile,Delhi,Interest,No,0,108,89,4683,82.41
+C0104,2026-02-26,Instagram Ads,Festive Offer,Tablet,Jaipur,Awareness,Yes,0,455,177,5728,38.9
+C0105,2026-03-05,YouTube Ads,Winter Sale,Tablet,Delhi,Retention,Yes,7594,189,148,9847,78.31
+C0106,2026-01-12,Google Ads,Brand Awareness,Tablet,Chandigarh,Intent,No,0,359,148,1423,41.23
+C0107,2026-03-02,Email Marketing,Brand Awareness,Desktop,Jaipur,Awareness,No,0,345,40,3870,11.59
+C0108,2026-03-02,Facebook Ads,Festive Offer,Desktop,Jaipur,Interest,No,0,375,271,2494,72.27
+C0109,2026-02-22,LinkedIn Ads,Festive Offer,Desktop,Bangalore,Retention,Yes,2713,489,102,6403,20.86
+C0110,2026-02-02,Facebook Ads,Winter Sale,Desktop,Hyderabad,Intent,Yes,0,282,65,6153,23.05
+C0111,2026-02-22,Instagram Ads,Retargeting,Tablet,Jaipur,Purchase,Yes,1018,386,297,8569,76.94
+C0112,2026-01-27,Facebook Ads,New Launch,Mobile,Jaipur,Purchase,Yes,9167,370,246,1845,66.49
+C0113,2026-04-01,Google Ads,Search Campaign,Tablet,Delhi,Intent,No,0,112,23,4920,20.54
+C0114,2026-03-01,Instagram Ads,Brand Awareness,Mobile,Pune,Purchase,Yes,7684,97,48,2858,49.48
+C0115,2026-04-17,YouTube Ads,Festive Offer,Mobile,Pune,Retention,Yes,5781,310,159,7807,51.29
+C0116,2026-04-06,Google Ads,Winter Sale,Desktop,Hyderabad,Purchase,Yes,3369,246,68,9327,27.64
+C0117,2026-04-16,Instagram Ads,Search Campaign,Tablet,Jaipur,Intent,No,0,453,279,5377,61.59
+C0118,2026-03-10,YouTube Ads,Search Campaign,Desktop,Chandigarh,Purchase,Yes,9022,493,96,8316,19.47
+C0119,2026-03-31,Google Ads,New Launch,Desktop,Mumbai,Purchase,Yes,7180,283,184,4090,65.02
+C0120,2026-04-01,YouTube Ads,Festive Offer,Tablet,Hyderabad,Intent,Yes,0,212,210,8749,99.06
+C0121,2026-03-06,Email Marketing,Search Campaign,Mobile,Hyderabad,Retention,Yes,3492,303,38,3068,12.54
+C0122,2026-04-03,Google Ads,Festive Offer,Tablet,Mumbai,Intent,Yes,0,319,253,1251,79.31
+C0123,2026-03-21,LinkedIn Ads,Festive Offer,Tablet,Delhi,Awareness,No,0,450,155,6546,34.44
+C0124,2026-04-22,Email Marketing,Winter Sale,Tablet,Delhi,Consideration,No,0,212,180,8994,84.91
+C0125,2026-01-13,LinkedIn Ads,Brand Awareness,Mobile,Pune,Interest,No,0,166,43,8110,25.9
+C0126,2026-04-12,Instagram Ads,Search Campaign,Desktop,Jaipur,Interest,No,0,64,22,6314,34.38
+C0127,2026-03-14,LinkedIn Ads,Retargeting,Mobile,Mumbai,Intent,Yes,0,175,155,7751,88.57
+C0128,2026-04-27,Email Marketing,Retargeting,Mobile,Pune,Awareness,No,0,367,143,9153,38.96
+C0129,2026-04-26,YouTube Ads,Search Campaign,Tablet,Chandigarh,Retention,Yes,5161,285,150,1153,52.63
+C0130,2026-03-23,YouTube Ads,Brand Awareness,Desktop,Pune,Interest,Yes,0,276,196,5901,71.01
+C0131,2026-01-14,Google Ads,Festive Offer,Tablet,Jaipur,Consideration,Yes,0,246,238,8916,96.75
+C0132,2026-04-17,LinkedIn Ads,Festive Offer,Desktop,Delhi,Purchase,Yes,5847,408,171,1359,41.91
+C0133,2026-04-10,Google Ads,New Launch,Desktop,Mumbai,Purchase,Yes,1803,360,274,5689,76.11
+C0134,2026-03-22,Instagram Ads,Brand Awareness,Tablet,Delhi,Retention,Yes,4115,367,148,3240,40.33
+C0135,2026-04-04,Google Ads,Winter Sale,Desktop,Jaipur,Consideration,No,0,67,57,6977,85.07
+C0136,2026-04-11,Email Marketing,Search Campaign,Tablet,Chandigarh,Retention,Yes,7807,139,45,3165,32.37
+C0137,2026-04-06,Facebook Ads,Winter Sale,Desktop,Delhi,Consideration,Yes,0,181,143,5835,79.01
+C0138,2026-04-19,Email Marketing,Search Campaign,Mobile,Hyderabad,Interest,Yes,0,490,366,7511,74.69
+C0139,2026-02-28,Facebook Ads,Brand Awareness,Tablet,Bangalore,Intent,Yes,0,185,157,3024,84.86
+C0140,2026-01-14,LinkedIn Ads,Retargeting,Desktop,Delhi,Consideration,No,0,471,346,7086,73.46
+C0141,2026-03-23,YouTube Ads,Brand Awareness,Desktop,Bangalore,Purchase,Yes,6374,362,133,2035,36.74
+C0142,2026-02-08,YouTube Ads,Winter Sale,Mobile,Mumbai,Intent,Yes,0,121,25,1609,20.66
+C0143,2026-03-27,LinkedIn Ads,Brand Awareness,Tablet,Pune,Purchase,Yes,3222,248,136,7078,54.84
+C0144,2026-04-17,YouTube Ads,New Launch,Desktop,Jaipur,Purchase,Yes,3531,262,187,2622,71.37
+C0145,2026-01-31,Facebook Ads,Winter Sale,Tablet,Jaipur,Awareness,No,0,161,133,8285,82.61
+C0146,2026-01-25,Instagram Ads,Festive Offer,Mobile,Bangalore,Purchase,Yes,6876,81,45,5520,55.56
+C0147,2026-02-01,Google Ads,New Launch,Mobile,Delhi,Interest,Yes,0,75,70,6464,93.33
+C0148,2026-02-12,Google Ads,New Launch,Mobile,Jaipur,Purchase,Yes,4394,350,130,4817,37.14
+C0149,2026-01-15,LinkedIn Ads,Winter Sale,Mobile,Delhi,Interest,Yes,0,326,148,3858,45.4
+C0150,2026-01-23,Facebook Ads,Winter Sale,Mobile,Bangalore,Consideration,Yes,0,351,185,1258,52.71
+C0151,2026-02-27,Facebook Ads,New Launch,Tablet,Delhi,Intent,Yes,0,431,52,8802,12.06
+C0152,2026-02-08,YouTube Ads,Brand Awareness,Mobile,Delhi,Intent,Yes,0,364,42,9543,11.54
+C0153,2026-03-04,LinkedIn Ads,Festive Offer,Mobile,Delhi,Intent,No,0,268,195,2768,72.76
+C0154,2026-03-21,LinkedIn Ads,New Launch,Tablet,Bangalore,Consideration,Yes,0,83,36,5505,43.37
+C0155,2026-02-28,Email Marketing,New Launch,Desktop,Delhi,Consideration,No,0,355,291,5831,81.97
+C0156,2026-02-25,YouTube Ads,Retargeting,Desktop,Jaipur,Retention,Yes,2874,486,355,4522,73.05
+C0157,2026-02-10,YouTube Ads,Search Campaign,Tablet,Jaipur,Intent,No,0,262,206,2557,78.63
+C0158,2026-01-12,Instagram Ads,Winter Sale,Desktop,Delhi,Consideration,Yes,0,401,262,2099,65.34
+C0159,2026-03-17,Email Marketing,New Launch,Desktop,Bangalore,Retention,Yes,7105,465,86,1982,18.49
+C0160,2026-04-22,LinkedIn Ads,Winter Sale,Desktop,Chandigarh,Awareness,No,0,231,190,7929,82.25
+C0161,2026-01-28,Google Ads,Brand Awareness,Desktop,Mumbai,Consideration,No,0,103,93,9313,90.29
+C0162,2026-01-15,Facebook Ads,New Launch,Mobile,Hyderabad,Awareness,No,0,482,304,7022,63.07
+C0163,2026-01-04,Google Ads,Search Campaign,Tablet,Hyderabad,Intent,Yes,0,361,356,5381,98.61
+C0164,2026-04-22,Google Ads,New Launch,Tablet,Pune,Consideration,No,0,229,21,3972,9.17
+C0165,2026-01-12,LinkedIn Ads,New Launch,Mobile,Pune,Awareness,Yes,0,429,344,1502,80.19
+C0166,2026-02-09,LinkedIn Ads,Search Campaign,Tablet,Chandigarh,Intent,No,0,224,60,7062,26.79
+C0167,2026-03-28,Instagram Ads,Search Campaign,Desktop,Bangalore,Awareness,Yes,0,129,40,1815,31.01
+C0168,2026-02-04,Google Ads,New Launch,Mobile,Jaipur,Intent,No,0,360,246,7785,68.33
+C0169,2026-03-09,LinkedIn Ads,Search Campaign,Mobile,Mumbai,Intent,Yes,0,195,193,8972,98.97
+C0170,2026-01-28,Google Ads,Search Campaign,Desktop,Jaipur,Intent,Yes,0,53,33,5938,62.26
+C0171,2026-01-17,YouTube Ads,New Launch,Tablet,Mumbai,Awareness,Yes,0,304,240,3878,78.95
+C0172,2026-02-25,Instagram Ads,Festive Offer,Mobile,Hyderabad,Purchase,Yes,6802,86,70,1693,81.4
+C0173,2026-02-07,Instagram Ads,Festive Offer,Mobile,Jaipur,Consideration,No,0,343,227,7843,66.18
+C0174,2026-01-12,YouTube Ads,Winter Sale,Mobile,Pune,Interest,No,0,475,373,6928,78.53
+C0175,2026-04-22,Facebook Ads,Brand Awareness,Desktop,Mumbai,Purchase,Yes,7560,318,60,7484,18.87
+C0176,2026-03-09,Email Marketing,Retargeting,Desktop,Jaipur,Consideration,Yes,0,89,85,2868,95.51
+C0177,2026-02-02,Google Ads,Retargeting,Tablet,Mumbai,Retention,Yes,3419,170,46,3399,27.06
+C0178,2026-03-01,Email Marketing,New Launch,Desktop,Bangalore,Retention,Yes,2234,140,118,9095,84.29
+C0179,2026-01-20,YouTube Ads,Winter Sale,Desktop,Pune,Purchase,Yes,6295,492,341,6179,69.31
+C0180,2026-02-15,Email Marketing,Winter Sale,Desktop,Pune,Retention,Yes,5961,457,160,1920,35.01
+C0181,2026-01-10,LinkedIn Ads,Winter Sale,Tablet,Chandigarh,Intent,Yes,0,79,43,5703,54.43
+C0182,2026-04-27,Email Marketing,Brand Awareness,Mobile,Jaipur,Purchase,Yes,7299,286,41,8368,14.34
+C0183,2026-02-27,Instagram Ads,Search Campaign,Tablet,Delhi,Purchase,Yes,8792,306,97,2013,31.7
+C0184,2026-02-26,Email Marketing,New Launch,Tablet,Mumbai,Purchase,Yes,3827,70,35,8172,50.0
+C0185,2026-04-10,Facebook Ads,Brand Awareness,Tablet,Delhi,Consideration,No,0,194,119,7697,61.34
+C0186,2026-03-13,LinkedIn Ads,Festive Offer,Desktop,Jaipur,Retention,Yes,6482,83,62,2548,74.7
+C0187,2026-04-28,Facebook Ads,Search Campaign,Tablet,Bangalore,Retention,Yes,3463,220,40,3317,18.18
+C0188,2026-02-09,Email Marketing,Festive Offer,Tablet,Hyderabad,Retention,Yes,7421,116,96,2388,82.76
+C0189,2026-01-12,LinkedIn Ads,Brand Awareness,Desktop,Chandigarh,Consideration,Yes,0,393,379,9624,96.44
+C0190,2026-01-28,Facebook Ads,Festive Offer,Mobile,Mumbai,Consideration,Yes,0,235,99,3953,42.13
+C0191,2026-03-06,Email Marketing,Brand Awareness,Tablet,Delhi,Interest,Yes,0,89,57,2657,64.04
+C0192,2026-03-18,YouTube Ads,Retargeting,Mobile,Mumbai,Retention,Yes,6517,498,412,3147,82.73
+C0193,2026-02-22,Facebook Ads,Brand Awareness,Tablet,Mumbai,Retention,Yes,3712,419,244,1715,58.23
+C0194,2026-01-30,Email Marketing,Retargeting,Desktop,Hyderabad,Intent,No,0,435,403,8355,92.64
+C0195,2026-03-01,Facebook Ads,Festive Offer,Tablet,Chandigarh,Intent,Yes,0,238,193,8218,81.09
+C0196,2026-04-22,Facebook Ads,Winter Sale,Tablet,Pune,Intent,Yes,0,468,122,3267,26.07
+C0197,2026-02-06,Instagram Ads,Retargeting,Desktop,Pune,Consideration,Yes,0,414,284,3042,68.6
+C0198,2026-04-27,Google Ads,Festive Offer,Desktop,Delhi,Purchase,Yes,3414,475,243,2502,51.16
+C0199,2026-01-31,YouTube Ads,Winter Sale,Desktop,Mumbai,Intent,Yes,0,252,148,7126,58.73
+C0200,2026-01-18,Instagram Ads,Search Campaign,Desktop,Bangalore,Awareness,No,0,100,62,3392,62.0
+C0201,2026-01-03,Facebook Ads,Retargeting,Mobile,Chandigarh,Interest,No,0,279,22,2298,7.89
+C0202,2026-01-31,Facebook Ads,Winter Sale,Mobile,Mumbai,Retention,Yes,9647,266,48,5720,18.05
+C0203,2026-03-18,Email Marketing,Winter Sale,Tablet,Chandigarh,Intent,No,0,82,27,9189,32.93
+C0204,2026-02-24,Instagram Ads,New Launch,Desktop,Mumbai,Purchase,Yes,4963,417,93,5772,22.3
+C0205,2026-03-09,Facebook Ads,Winter Sale,Tablet,Chandigarh,Purchase,Yes,7825,145,105,2402,72.41
+C0206,2026-04-22,YouTube Ads,Winter Sale,Tablet,Pune,Purchase,Yes,9316,333,30,7397,9.01
+C0207,2026-04-11,Instagram Ads,Search Campaign,Mobile,Bangalore,Consideration,No,0,432,28,6850,6.48
+C0208,2026-01-18,Instagram Ads,Search Campaign,Tablet,Jaipur,Retention,Yes,2698,445,317,6447,71.24
+C0209,2026-03-31,YouTube Ads,Brand Awareness,Mobile,Hyderabad,Retention,Yes,3868,475,418,8612,88.0
+C0210,2026-02-07,Google Ads,Winter Sale,Mobile,Delhi,Interest,Yes,0,416,254,1605,61.06
+C0211,2026-03-02,Facebook Ads,Winter Sale,Tablet,Mumbai,Consideration,No,0,313,223,9897,71.25
+C0212,2026-04-21,LinkedIn Ads,Search Campaign,Desktop,Delhi,Consideration,No,0,491,419,1783,85.34
+C0213,2026-04-25,YouTube Ads,Search Campaign,Mobile,Pune,Consideration,No,0,254,210,8204,82.68
+C0214,2026-02-04,Instagram Ads,Brand Awareness,Desktop,Delhi,Retention,Yes,9151,238,224,9507,94.12
+C0215,2026-01-14,Instagram Ads,Search Campaign,Tablet,Jaipur,Intent,Yes,0,329,170,6262,51.67
+C0216,2026-03-30,YouTube Ads,Search Campaign,Desktop,Delhi,Consideration,No,0,358,238,3730,66.48
+C0217,2026-03-23,Instagram Ads,Winter Sale,Tablet,Bangalore,Retention,Yes,6776,364,242,5498,66.48
+C0218,2026-01-19,Email Marketing,Brand Awareness,Desktop,Delhi,Intent,No,0,312,101,1510,32.37
+C0219,2026-02-19,Email Marketing,Winter Sale,Tablet,Mumbai,Interest,Yes,0,170,113,6933,66.47
+C0220,2026-04-08,Instagram Ads,New Launch,Mobile,Chandigarh,Retention,Yes,8371,239,115,8273,48.12
+C0221,2026-02-01,Instagram Ads,Winter Sale,Tablet,Mumbai,Consideration,No,0,210,186,5566,88.57
+C0222,2026-04-10,Facebook Ads,Brand Awareness,Desktop,Mumbai,Intent,No,0,337,80,5288,23.74
+C0223,2026-01-16,Google Ads,Winter Sale,Desktop,Mumbai,Purchase,Yes,5678,405,271,4279,66.91
+C0224,2026-04-01,Instagram Ads,New Launch,Tablet,Jaipur,Retention,Yes,8292,94,60,6692,63.83
+C0225,2026-04-12,Facebook Ads,New Launch,Mobile,Delhi,Consideration,Yes,0,414,383,3852,92.51
+C0226,2026-02-16,Email Marketing,New Launch,Desktop,Pune,Interest,Yes,0,171,146,1430,85.38
+C0227,2026-02-09,YouTube Ads,Brand Awareness,Tablet,Pune,Purchase,Yes,3126,363,64,2077,17.63
+C0228,2026-01-17,Facebook Ads,Brand Awareness,Mobile,Pune,Purchase,Yes,7730,443,229,2208,51.69
+C0229,2026-04-09,Google Ads,Festive Offer,Tablet,Hyderabad,Intent,No,0,115,90,3981,78.26
+C0230,2026-01-22,Google Ads,Search Campaign,Tablet,Mumbai,Awareness,Yes,0,315,98,5982,31.11
+C0231,2026-01-26,LinkedIn Ads,New Launch,Desktop,Mumbai,Consideration,No,0,483,60,5105,12.42
+C0232,2026-03-06,LinkedIn Ads,Retargeting,Tablet,Chandigarh,Retention,Yes,5961,364,293,2530,80.49
+C0233,2026-04-18,Email Marketing,Winter Sale,Mobile,Delhi,Interest,Yes,0,387,339,6531,87.6
+C0234,2026-03-21,LinkedIn Ads,Winter Sale,Desktop,Bangalore,Awareness,No,0,383,127,7825,33.16
+C0235,2026-02-01,LinkedIn Ads,Festive Offer,Desktop,Pune,Purchase,Yes,5745,378,174,8912,46.03
+C0236,2026-03-03,YouTube Ads,Retargeting,Desktop,Chandigarh,Awareness,Yes,0,130,76,7809,58.46
+C0237,2026-04-04,Facebook Ads,Festive Offer,Mobile,Hyderabad,Interest,No,0,491,387,6231,78.82
+C0238,2026-01-16,Facebook Ads,Festive Offer,Mobile,Mumbai,Consideration,Yes,0,213,81,8642,38.03
+C0239,2026-02-01,Google Ads,Search Campaign,Tablet,Bangalore,Awareness,Yes,0,198,118,7850,59.6
+C0240,2026-03-07,YouTube Ads,Festive Offer,Desktop,Pune,Consideration,Yes,0,440,101,9163,22.95
+C0241,2026-01-31,Google Ads,New Launch,Desktop,Delhi,Awareness,Yes,0,251,149,8491,59.36
+C0242,2026-03-10,Instagram Ads,Winter Sale,Desktop,Mumbai,Awareness,No,0,303,260,5681,85.81
+C0243,2026-01-06,YouTube Ads,Winter Sale,Tablet,Chandigarh,Consideration,No,0,441,226,6995,51.25
+C0244,2026-02-19,Email Marketing,Festive Offer,Tablet,Jaipur,Interest,No,0,333,167,2204,50.15
+C0245,2026-02-17,Facebook Ads,New Launch,Desktop,Hyderabad,Purchase,Yes,2946,115,32,7453,27.83
+C0246,2026-03-06,Instagram Ads,Winter Sale,Mobile,Mumbai,Interest,Yes,0,358,280,7576,78.21
+C0247,2026-02-28,Google Ads,New Launch,Tablet,Mumbai,Retention,Yes,6456,461,262,9508,56.83
+C0248,2026-03-17,Facebook Ads,New Launch,Tablet,Chandigarh,Consideration,No,0,133,70,5902,52.63
+C0249,2026-02-12,LinkedIn Ads,Winter Sale,Desktop,Chandigarh,Intent,No,0,293,28,7035,9.56
+C0250,2026-03-25,Email Marketing,New Launch,Mobile,Bangalore,Consideration,Yes,0,355,262,5350,73.8
+C0251,2026-01-19,LinkedIn Ads,Retargeting,Mobile,Chandigarh,Awareness,No,0,137,87,7229,63.5
+C0252,2026-02-10,YouTube Ads,Retargeting,Desktop,Bangalore,Retention,Yes,2800,147,24,8225,16.33
+C0253,2026-04-01,Google Ads,New Launch,Mobile,Chandigarh,Interest,No,0,306,261,2020,85.29
+C0254,2026-01-23,YouTube Ads,New Launch,Desktop,Chandigarh,Consideration,No,0,319,212,6140,66.46
+C0255,2026-02-01,Facebook Ads,New Launch,Desktop,Mumbai,Consideration,No,0,362,267,4150,73.76
+C0256,2026-02-10,YouTube Ads,Search Campaign,Tablet,Hyderabad,Consideration,No,0,410,126,9011,30.73
+C0257,2026-02-18,YouTube Ads,Search Campaign,Mobile,Jaipur,Retention,Yes,5480,197,51,9899,25.89
+C0258,2026-04-29,YouTube Ads,Brand Awareness,Desktop,Bangalore,Awareness,No,0,415,60,6674,14.46
+C0259,2026-01-18,Instagram Ads,New Launch,Tablet,Chandigarh,Intent,Yes,0,153,89,5450,58.17
+C0260,2026-01-29,LinkedIn Ads,Retargeting,Mobile,Delhi,Interest,Yes,0,75,62,9700,82.67
+C0261,2026-03-29,Google Ads,Winter Sale,Tablet,Mumbai,Intent,No,0,417,261,2647,62.59
+C0262,2026-02-11,Facebook Ads,Brand Awareness,Mobile,Hyderabad,Intent,No,0,294,122,5706,41.5
+C0263,2026-02-23,Google Ads,Winter Sale,Desktop,Hyderabad,Awareness,Yes,0,323,39,3868,12.07
+C0264,2026-01-02,Facebook Ads,New Launch,Tablet,Delhi,Intent,Yes,0,433,168,1613,38.8
+C0265,2026-04-19,Email Marketing,Festive Offer,Desktop,Mumbai,Consideration,No,0,282,272,3198,96.45
+C0266,2026-03-24,Facebook Ads,Brand Awareness,Mobile,Delhi,Awareness,No,0,133,113,8518,84.96
+C0267,2026-01-23,Email Marketing,Brand Awareness,Desktop,Hyderabad,Retention,Yes,6523,454,171,4164,37.67
+C0268,2026-01-24,Google Ads,Festive Offer,Desktop,Mumbai,Intent,No,0,94,71,2562,75.53
+C0269,2026-04-07,Facebook Ads,Search Campaign,Desktop,Chandigarh,Awareness,No,0,246,80,8319,32.52
+C0270,2026-01-08,LinkedIn Ads,Winter Sale,Desktop,Jaipur,Retention,Yes,1187,183,112,4871,61.2
+C0271,2026-03-30,Instagram Ads,Brand Awareness,Desktop,Jaipur,Interest,No,0,401,277,6095,69.08
+C0272,2026-01-20,YouTube Ads,Brand Awareness,Tablet,Jaipur,Purchase,Yes,4618,162,54,8834,33.33
+C0273,2026-04-08,Google Ads,Brand Awareness,Tablet,Hyderabad,Intent,No,0,437,295,4578,67.51
+C0274,2026-04-28,Email Marketing,Winter Sale,Mobile,Hyderabad,Awareness,No,0,320,205,2279,64.06
+C0275,2026-02-11,Email Marketing,Festive Offer,Mobile,Bangalore,Purchase,Yes,9281,153,58,3695,37.91
+C0276,2026-04-14,Instagram Ads,Festive Offer,Mobile,Chandigarh,Interest,No,0,96,85,8298,88.54
+C0277,2026-03-28,Facebook Ads,Brand Awareness,Mobile,Pune,Intent,No,0,338,49,8575,14.5
+C0278,2026-01-06,YouTube Ads,Search Campaign,Tablet,Delhi,Consideration,Yes,0,431,131,2196,30.39
+C0279,2026-02-06,YouTube Ads,Retargeting,Mobile,Hyderabad,Purchase,Yes,1987,85,80,1519,94.12
+C0280,2026-04-22,YouTube Ads,Festive Offer,Mobile,Bangalore,Retention,Yes,7887,241,117,8348,48.55
+C0281,2026-01-16,Google Ads,New Launch,Desktop,Chandigarh,Retention,Yes,9835,118,103,6697,87.29
+C0282,2026-02-08,YouTube Ads,Brand Awareness,Tablet,Chandigarh,Interest,Yes,0,477,21,1372,4.4
+C0283,2026-02-28,Facebook Ads,Retargeting,Desktop,Mumbai,Intent,No,0,471,137,5055,29.09
+C0284,2026-03-20,Instagram Ads,Retargeting,Mobile,Delhi,Retention,Yes,2848,66,62,7868,93.94
+C0285,2026-04-05,Instagram Ads,Festive Offer,Desktop,Mumbai,Awareness,Yes,0,278,44,5009,15.83
+C0286,2026-01-18,Email Marketing,Search Campaign,Mobile,Hyderabad,Purchase,Yes,4559,436,417,1924,95.64
+C0287,2026-01-31,Facebook Ads,Retargeting,Tablet,Chandigarh,Retention,Yes,6224,345,326,6253,94.49
+C0288,2026-03-13,Email Marketing,Brand Awareness,Mobile,Bangalore,Interest,No,0,203,90,1998,44.33
+C0289,2026-02-14,LinkedIn Ads,Brand Awareness,Desktop,Hyderabad,Retention,Yes,7999,334,273,1768,81.74
+C0290,2026-01-20,Facebook Ads,Festive Offer,Mobile,Hyderabad,Purchase,Yes,6222,406,233,7688,57.39
+C0291,2026-04-20,LinkedIn Ads,Retargeting,Desktop,Delhi,Purchase,Yes,8758,173,77,5927,44.51
+C0292,2026-01-18,YouTube Ads,Retargeting,Desktop,Mumbai,Purchase,Yes,7761,263,162,9683,61.6
+C0293,2026-03-10,LinkedIn Ads,Retargeting,Mobile,Jaipur,Consideration,Yes,0,280,209,2514,74.64
+C0294,2026-04-13,Email Marketing,Brand Awareness,Tablet,Chandigarh,Intent,Yes,0,497,57,4082,11.47
+C0295,2026-04-27,Instagram Ads,Retargeting,Mobile,Bangalore,Interest,No,0,156,105,5967,67.31
+C0296,2026-02-20,Google Ads,New Launch,Desktop,Hyderabad,Awareness,No,0,174,174,4350,100.0
+C0297,2026-02-03,Facebook Ads,New Launch,Desktop,Pune,Consideration,No,0,288,203,6053,70.49
+C0298,2026-02-17,Facebook Ads,Festive Offer,Mobile,Chandigarh,Awareness,No,0,439,183,4328,41.69
+C0299,2026-02-07,Google Ads,Retargeting,Desktop,Mumbai,Interest,Yes,0,58,36,7841,62.07
+C0300,2026-02-02,YouTube Ads,Brand Awareness,Tablet,Bangalore,Intent,Yes,0,305,301,6530,98.69
+C0301,2026-01-22,Google Ads,Brand Awareness,Tablet,Pune,Intent,No,0,136,113,6770,83.09
+C0302,2026-05-01,LinkedIn Ads,Winter Sale,Mobile,Pune,Interest,Yes,0,318,37,2217,11.64
+C0303,2026-01-28,Email Marketing,Festive Offer,Desktop,Delhi,Interest,Yes,0,84,39,1149,46.43
+C0304,2026-01-01,Email Marketing,New Launch,Desktop,Delhi,Purchase,Yes,8916,387,269,1257,69.51
+C0305,2026-03-06,LinkedIn Ads,Brand Awareness,Desktop,Hyderabad,Awareness,No,0,324,166,1280,51.23
+C0306,2026-01-31,Google Ads,New Launch,Tablet,Jaipur,Interest,Yes,0,99,87,3439,87.88
+C0307,2026-02-17,YouTube Ads,Festive Offer,Tablet,Mumbai,Consideration,No,0,457,223,2294,48.8
+C0308,2026-03-25,LinkedIn Ads,Winter Sale,Mobile,Pune,Retention,Yes,4700,203,195,2320,96.06
+C0309,2026-03-23,Instagram Ads,Brand Awareness,Mobile,Delhi,Intent,No,0,332,263,1919,79.22
+C0310,2026-04-25,Email Marketing,Winter Sale,Mobile,Mumbai,Intent,No,0,380,189,2562,49.74
+C0311,2026-03-29,Facebook Ads,New Launch,Tablet,Bangalore,Retention,Yes,8790,188,31,2218,16.49
+C0312,2026-01-27,Email Marketing,Retargeting,Tablet,Hyderabad,Awareness,Yes,0,485,181,1256,37.32
+C0313,2026-03-14,YouTube Ads,Brand Awareness,Tablet,Jaipur,Intent,Yes,0,203,61,4939,30.05
+C0314,2026-03-06,LinkedIn Ads,Search Campaign,Mobile,Delhi,Intent,Yes,0,454,372,2284,81.94
+C0315,2026-03-19,Email Marketing,New Launch,Desktop,Hyderabad,Intent,Yes,0,479,58,6580,12.11
+C0316,2026-03-04,Google Ads,Search Campaign,Tablet,Pune,Consideration,Yes,0,374,159,8381,42.51
+C0317,2026-01-11,Email Marketing,Search Campaign,Mobile,Bangalore,Intent,Yes,0,398,319,7227,80.15
+C0318,2026-04-02,LinkedIn Ads,Retargeting,Tablet,Pune,Awareness,Yes,0,187,59,7225,31.55
+C0319,2026-05-01,Facebook Ads,Festive Offer,Desktop,Hyderabad,Consideration,No,0,104,31,1085,29.81
+C0320,2026-02-25,YouTube Ads,New Launch,Tablet,Chandigarh,Consideration,Yes,0,117,31,4070,26.5
+C0321,2026-03-12,Instagram Ads,New Launch,Tablet,Hyderabad,Intent,Yes,0,63,25,6798,39.68
+C0322,2026-02-19,Instagram Ads,Brand Awareness,Tablet,Mumbai,Consideration,No,0,56,38,7779,67.86
+C0323,2026-01-22,Google Ads,Search Campaign,Desktop,Jaipur,Purchase,Yes,9537,136,107,7237,78.68
+C0324,2026-02-05,YouTube Ads,Search Campaign,Desktop,Hyderabad,Intent,Yes,0,82,30,8121,36.59
+C0325,2026-03-18,Email Marketing,Retargeting,Desktop,Delhi,Awareness,No,0,178,83,9123,46.63
+C0326,2026-04-18,Email Marketing,Festive Offer,Desktop,Pune,Interest,No,0,53,45,6443,84.91
+C0327,2026-02-08,Facebook Ads,New Launch,Tablet,Mumbai,Consideration,No,0,467,441,3230,94.43
+C0328,2026-02-07,LinkedIn Ads,Brand Awareness,Tablet,Pune,Intent,No,0,140,70,6228,50.0
+C0329,2026-04-15,YouTube Ads,Search Campaign,Mobile,Chandigarh,Purchase,Yes,4971,216,116,5592,53.7
+C0330,2026-04-04,YouTube Ads,Brand Awareness,Mobile,Pune,Interest,Yes,0,399,301,1440,75.44
+C0331,2026-03-28,YouTube Ads,Retargeting,Tablet,Jaipur,Consideration,Yes,0,469,454,7703,96.8
+C0332,2026-04-12,YouTube Ads,Winter Sale,Desktop,Chandigarh,Interest,No,0,387,98,7932,25.32
+C0333,2026-03-11,Instagram Ads,Search Campaign,Tablet,Hyderabad,Intent,No,0,323,279,7853,86.38
+C0334,2026-01-22,LinkedIn Ads,New Launch,Mobile,Chandigarh,Purchase,Yes,2392,105,51,6816,48.57
+C0335,2026-01-14,Instagram Ads,Winter Sale,Desktop,Mumbai,Retention,Yes,7547,435,189,8052,43.45
+C0336,2026-02-27,Facebook Ads,Festive Offer,Desktop,Hyderabad,Purchase,Yes,9499,335,317,4621,94.63
+C0337,2026-03-03,Instagram Ads,Search Campaign,Desktop,Delhi,Retention,Yes,9199,127,64,1402,50.39
+C0338,2026-02-28,Google Ads,New Launch,Desktop,Jaipur,Awareness,Yes,0,228,99,6620,43.42
+C0339,2026-02-10,Instagram Ads,Search Campaign,Mobile,Hyderabad,Intent,Yes,0,274,204,8412,74.45
+C0340,2026-03-28,Google Ads,Brand Awareness,Mobile,Chandigarh,Retention,Yes,2885,61,41,2791,67.21
+C0341,2026-03-01,Google Ads,Festive Offer,Tablet,Mumbai,Interest,Yes,0,219,163,7985,74.43
+C0342,2026-02-27,Email Marketing,Festive Offer,Desktop,Delhi,Interest,No,0,252,27,4232,10.71
+C0343,2026-03-15,Instagram Ads,New Launch,Mobile,Jaipur,Retention,Yes,4519,155,91,2025,58.71
+C0344,2026-03-27,YouTube Ads,New Launch,Tablet,Jaipur,Consideration,Yes,0,284,78,5298,27.46
+C0345,2026-02-14,Facebook Ads,Festive Offer,Tablet,Mumbai,Purchase,Yes,7367,362,220,2871,60.77
+C0346,2026-03-28,Google Ads,Search Campaign,Mobile,Mumbai,Retention,Yes,5873,364,322,2388,88.46
+C0347,2026-03-07,YouTube Ads,Festive Offer,Tablet,Mumbai,Consideration,Yes,0,143,67,3316,46.85
+C0348,2026-03-23,Email Marketing,Brand Awareness,Tablet,Mumbai,Purchase,Yes,7286,266,67,8973,25.19
+C0349,2026-01-24,Facebook Ads,Festive Offer,Tablet,Delhi,Purchase,Yes,3733,300,167,3298,55.67
+C0350,2026-04-15,YouTube Ads,New Launch,Tablet,Bangalore,Consideration,Yes,0,298,89,4196,29.87
+C0351,2026-04-01,YouTube Ads,Festive Offer,Mobile,Delhi,Intent,No,0,400,271,7809,67.75
+C0352,2026-02-07,Instagram Ads,Search Campaign,Mobile,Chandigarh,Purchase,Yes,1505,457,409,4613,89.5
+C0353,2026-03-12,Email Marketing,Winter Sale,Tablet,Delhi,Consideration,Yes,0,449,254,9115,56.57
+C0354,2026-03-11,Google Ads,Festive Offer,Mobile,Bangalore,Consideration,No,0,327,41,8231,12.54
+C0355,2026-02-03,Facebook Ads,Winter Sale,Desktop,Hyderabad,Retention,Yes,5055,202,28,8368,13.86
+C0356,2026-01-22,Email Marketing,Retargeting,Mobile,Hyderabad,Awareness,Yes,0,157,109,8015,69.43
+C0357,2026-02-05,Email Marketing,New Launch,Mobile,Jaipur,Interest,Yes,0,341,199,9720,58.36
+C0358,2026-04-20,Email Marketing,Brand Awareness,Mobile,Mumbai,Retention,Yes,5794,198,166,5380,83.84
+C0359,2026-03-31,Google Ads,Retargeting,Mobile,Bangalore,Intent,Yes,0,191,187,3078,97.91
+C0360,2026-03-04,Google Ads,New Launch,Tablet,Jaipur,Consideration,Yes,0,439,366,7434,83.37
+C0361,2026-03-23,Instagram Ads,Festive Offer,Tablet,Bangalore,Retention,Yes,7786,242,135,2237,55.79
+C0362,2026-03-16,Instagram Ads,Brand Awareness,Mobile,Bangalore,Consideration,No,0,282,269,6362,95.39
+C0363,2026-02-20,Google Ads,Festive Offer,Mobile,Pune,Intent,No,0,485,52,9756,10.72
+C0364,2026-03-12,Email Marketing,Retargeting,Tablet,Hyderabad,Consideration,No,0,474,165,6533,34.81
+C0365,2026-01-13,LinkedIn Ads,Festive Offer,Mobile,Delhi,Intent,No,0,399,44,1752,11.03
+C0366,2026-01-26,LinkedIn Ads,Retargeting,Tablet,Jaipur,Interest,No,0,283,20,8009,7.07
+C0367,2026-01-11,Facebook Ads,Brand Awareness,Tablet,Mumbai,Interest,No,0,97,66,5102,68.04
+C0368,2026-02-24,LinkedIn Ads,Winter Sale,Tablet,Delhi,Awareness,No,0,370,176,4836,47.57
+C0369,2026-03-17,Google Ads,New Launch,Tablet,Pune,Awareness,Yes,0,294,59,3174,20.07
+C0370,2026-04-21,YouTube Ads,Brand Awareness,Mobile,Pune,Awareness,Yes,0,406,195,2975,48.03
+C0371,2026-01-14,Facebook Ads,Search Campaign,Desktop,Mumbai,Awareness,Yes,0,246,42,2678,17.07
+C0372,2026-01-09,Email Marketing,New Launch,Mobile,Chandigarh,Intent,Yes,0,378,366,3340,96.83
+C0373,2026-03-22,LinkedIn Ads,Retargeting,Desktop,Chandigarh,Retention,Yes,3688,275,199,4490,72.36
+C0374,2026-04-25,Instagram Ads,Retargeting,Mobile,Chandigarh,Retention,Yes,8248,490,131,2420,26.73
+C0375,2026-04-12,Google Ads,Retargeting,Desktop,Bangalore,Retention,Yes,7291,229,129,6152,56.33
+C0376,2026-04-10,LinkedIn Ads,Winter Sale,Tablet,Jaipur,Awareness,Yes,0,333,327,5668,98.2
+C0377,2026-03-24,Instagram Ads,Retargeting,Desktop,Pune,Interest,Yes,0,432,220,5842,50.93
+C0378,2026-04-24,Instagram Ads,Search Campaign,Desktop,Mumbai,Awareness,Yes,0,305,56,9655,18.36
+C0379,2026-04-08,YouTube Ads,Winter Sale,Mobile,Chandigarh,Intent,No,0,237,159,3830,67.09
+C0380,2026-04-29,Instagram Ads,Festive Offer,Tablet,Jaipur,Awareness,Yes,0,184,75,1652,40.76
+C0381,2026-03-31,YouTube Ads,Winter Sale,Tablet,Chandigarh,Retention,Yes,9209,442,232,7939,52.49
+C0382,2026-01-11,Email Marketing,Retargeting,Mobile,Chandigarh,Purchase,Yes,3501,192,41,6077,21.35
+C0383,2026-02-09,LinkedIn Ads,Festive Offer,Tablet,Hyderabad,Consideration,No,0,350,344,2083,98.29
+C0384,2026-01-15,YouTube Ads,New Launch,Tablet,Delhi,Interest,Yes,0,175,42,8118,24.0
+C0385,2026-03-31,Instagram Ads,Retargeting,Desktop,Jaipur,Consideration,Yes,0,111,21,3248,18.92
+C0386,2026-01-22,Facebook Ads,Retargeting,Tablet,Hyderabad,Purchase,Yes,9474,450,441,5247,98.0
+C0387,2026-04-14,YouTube Ads,Search Campaign,Tablet,Delhi,Consideration,Yes,0,444,35,6488,7.88
+C0388,2026-02-16,Instagram Ads,Festive Offer,Tablet,Mumbai,Consideration,Yes,0,304,253,9368,83.22
+C0389,2026-01-30,LinkedIn Ads,New Launch,Mobile,Delhi,Consideration,Yes,0,180,46,2889,25.56
+C0390,2026-02-19,Google Ads,Retargeting,Mobile,Chandigarh,Awareness,Yes,0,73,50,6963,68.49
+C0391,2026-02-23,LinkedIn Ads,Search Campaign,Desktop,Hyderabad,Retention,Yes,7870,164,102,5067,62.2
+C0392,2026-01-23,Google Ads,New Launch,Mobile,Pune,Awareness,No,0,111,84,1862,75.68
+C0393,2026-02-11,Instagram Ads,New Launch,Desktop,Delhi,Awareness,No,0,493,164,6090,33.27
+C0394,2026-04-05,Email Marketing,Retargeting,Desktop,Jaipur,Consideration,Yes,0,199,164,5979,82.41
+C0395,2026-04-04,Email Marketing,Retargeting,Mobile,Delhi,Purchase,Yes,9083,445,417,4201,93.71
+C0396,2026-03-23,LinkedIn Ads,Winter Sale,Desktop,Delhi,Intent,Yes,0,169,158,6675,93.49
+C0397,2026-01-14,Google Ads,New Launch,Mobile,Pune,Retention,Yes,7164,484,397,6038,82.02
+C0398,2026-01-12,Instagram Ads,Retargeting,Tablet,Pune,Intent,Yes,0,122,111,5584,90.98
+C0399,2026-03-06,Google Ads,Brand Awareness,Desktop,Delhi,Retention,Yes,7102,284,63,2565,22.18
+C0400,2026-01-31,Facebook Ads,Search Campaign,Desktop,Hyderabad,Purchase,Yes,2020,272,189,3141,69.49
+C0401,2026-01-30,Instagram Ads,Retargeting,Mobile,Hyderabad,Intent,No,0,212,135,5455,63.68
+C0402,2026-02-27,YouTube Ads,Search Campaign,Desktop,Delhi,Purchase,Yes,2785,129,33,3693,25.58
+C0403,2026-02-09,YouTube Ads,Search Campaign,Mobile,Delhi,Purchase,Yes,6870,444,126,8404,28.38
+C0404,2026-01-28,Facebook Ads,Retargeting,Mobile,Bangalore,Interest,No,0,473,380,1660,80.34
+C0405,2026-03-28,Facebook Ads,Search Campaign,Mobile,Delhi,Interest,No,0,252,151,1802,59.92
+C0406,2026-01-13,YouTube Ads,Winter Sale,Mobile,Delhi,Intent,No,0,334,301,5093,90.12
+C0407,2026-01-17,Google Ads,Festive Offer,Desktop,Bangalore,Awareness,Yes,0,475,419,4641,88.21
+C0408,2026-04-28,Instagram Ads,Winter Sale,Mobile,Mumbai,Retention,Yes,2376,348,320,5240,91.95
+C0409,2026-04-26,Facebook Ads,Winter Sale,Mobile,Pune,Retention,Yes,8265,464,85,2506,18.32
+C0410,2026-03-05,Instagram Ads,Festive Offer,Tablet,Pune,Awareness,Yes,0,343,241,7471,70.26
+C0411,2026-02-05,YouTube Ads,Retargeting,Mobile,Chandigarh,Interest,No,0,159,67,5505,42.14
+C0412,2026-02-22,Email Marketing,Festive Offer,Mobile,Delhi,Purchase,Yes,5026,381,171,9173,44.88
+C0413,2026-03-24,Email Marketing,Retargeting,Tablet,Hyderabad,Consideration,No,0,120,73,4267,60.83
+C0414,2026-03-03,Email Marketing,Festive Offer,Desktop,Chandigarh,Purchase,Yes,1319,245,220,6883,89.8
+C0415,2026-01-04,Facebook Ads,New Launch,Mobile,Delhi,Purchase,Yes,6269,248,89,3946,35.89
+C0416,2026-02-15,Email Marketing,Retargeting,Mobile,Delhi,Consideration,Yes,0,464,261,9674,56.25
+C0417,2026-04-08,Google Ads,New Launch,Desktop,Jaipur,Interest,Yes,0,186,156,1916,83.87
+C0418,2026-04-14,LinkedIn Ads,Brand Awareness,Desktop,Chandigarh,Interest,Yes,0,171,171,6210,100.0
+C0419,2026-03-14,Google Ads,Festive Offer,Tablet,Jaipur,Awareness,No,0,340,308,3328,90.59
+C0420,2026-01-30,Email Marketing,Retargeting,Mobile,Chandigarh,Interest,No,0,69,25,1920,36.23
+C0421,2026-04-14,Google Ads,Search Campaign,Tablet,Mumbai,Intent,Yes,0,219,177,4300,80.82
+C0422,2026-04-10,Instagram Ads,New Launch,Desktop,Delhi,Consideration,Yes,0,61,29,3320,47.54
+C0423,2026-02-08,Facebook Ads,Retargeting,Mobile,Bangalore,Consideration,No,0,350,71,6514,20.29
+C0424,2026-04-01,Email Marketing,Brand Awareness,Tablet,Hyderabad,Intent,No,0,382,182,3854,47.64
+C0425,2026-02-18,Facebook Ads,Brand Awareness,Tablet,Jaipur,Consideration,Yes,0,390,321,3872,82.31
+C0426,2026-04-19,Email Marketing,Winter Sale,Mobile,Chandigarh,Interest,Yes,0,423,20,7415,4.73
+C0427,2026-04-30,YouTube Ads,Retargeting,Desktop,Bangalore,Consideration,Yes,0,377,309,2705,81.96
+C0428,2026-03-23,Instagram Ads,Brand Awareness,Tablet,Bangalore,Awareness,Yes,0,227,101,3750,44.49
+C0429,2026-01-27,Google Ads,Brand Awareness,Mobile,Jaipur,Retention,Yes,6500,278,25,5345,8.99
+C0430,2026-02-19,YouTube Ads,Brand Awareness,Desktop,Mumbai,Consideration,Yes,0,418,20,1788,4.78
+C0431,2026-02-18,Instagram Ads,Festive Offer,Tablet,Bangalore,Intent,No,0,243,109,9946,44.86
+C0432,2026-04-13,Instagram Ads,Search Campaign,Mobile,Jaipur,Retention,Yes,4695,133,77,2207,57.89
+C0433,2026-04-24,YouTube Ads,Retargeting,Tablet,Delhi,Consideration,Yes,0,87,63,3787,72.41
+C0434,2026-04-01,Instagram Ads,Festive Offer,Tablet,Mumbai,Purchase,Yes,2525,223,172,8909,77.13
+C0435,2026-02-12,Google Ads,Retargeting,Desktop,Bangalore,Purchase,Yes,8113,130,26,2659,20.0
+C0436,2026-01-31,Instagram Ads,Winter Sale,Desktop,Chandigarh,Purchase,Yes,9849,185,92,5872,49.73
+C0437,2026-01-01,YouTube Ads,Winter Sale,Desktop,Hyderabad,Purchase,Yes,9043,128,26,6911,20.31
+C0438,2026-01-27,Google Ads,Brand Awareness,Desktop,Delhi,Retention,Yes,8869,152,44,1421,28.95
+C0439,2026-03-04,LinkedIn Ads,Search Campaign,Mobile,Bangalore,Intent,Yes,0,207,121,8715,58.45
+C0440,2026-02-17,Google Ads,Festive Offer,Mobile,Jaipur,Purchase,Yes,7349,144,67,7249,46.53
+C0441,2026-03-14,Instagram Ads,Retargeting,Tablet,Bangalore,Intent,No,0,184,77,5400,41.85
+C0442,2026-02-22,Email Marketing,Retargeting,Tablet,Delhi,Awareness,Yes,0,392,196,9871,50.0
+C0443,2026-03-02,Facebook Ads,Winter Sale,Desktop,Hyderabad,Intent,No,0,324,263,4860,81.17
+C0444,2026-01-16,YouTube Ads,Retargeting,Mobile,Mumbai,Retention,Yes,1568,307,284,3415,92.51
+C0445,2026-03-29,YouTube Ads,Retargeting,Tablet,Mumbai,Interest,Yes,0,71,47,2283,66.2
+C0446,2026-01-12,YouTube Ads,New Launch,Desktop,Chandigarh,Purchase,Yes,5225,213,206,2097,96.71
+C0447,2026-04-11,LinkedIn Ads,New Launch,Tablet,Chandigarh,Consideration,No,0,316,254,1202,80.38
+C0448,2026-03-14,Email Marketing,New Launch,Mobile,Delhi,Intent,Yes,0,262,58,3428,22.14
+C0449,2026-04-23,Facebook Ads,Festive Offer,Desktop,Pune,Purchase,Yes,2654,452,166,9775,36.73
+C0450,2026-01-05,Google Ads,Search Campaign,Desktop,Mumbai,Retention,Yes,8955,342,331,8750,96.78
+C0451,2026-03-30,Google Ads,Winter Sale,Tablet,Pune,Purchase,Yes,7581,69,45,6431,65.22
+C0452,2026-02-09,Facebook Ads,Festive Offer,Tablet,Bangalore,Consideration,No,0,60,41,5965,68.33
+C0453,2026-04-10,Facebook Ads,Search Campaign,Tablet,Pune,Awareness,Yes,0,118,58,8259,49.15
+C0454,2026-04-27,YouTube Ads,Brand Awareness,Desktop,Hyderabad,Purchase,Yes,2462,146,76,4463,52.05
+C0455,2026-04-12,Google Ads,Winter Sale,Desktop,Bangalore,Purchase,Yes,7126,470,48,9442,10.21
+C0456,2026-04-23,Email Marketing,Winter Sale,Mobile,Mumbai,Purchase,Yes,7609,119,119,9589,100.0
+C0457,2026-01-07,Facebook Ads,Brand Awareness,Mobile,Jaipur,Interest,Yes,0,177,28,8478,15.82
+C0458,2026-03-29,Instagram Ads,Retargeting,Desktop,Pune,Consideration,No,0,308,223,3029,72.4
+C0459,2026-03-17,Email Marketing,Search Campaign,Desktop,Mumbai,Purchase,Yes,8308,140,131,8775,93.57
+C0460,2026-01-07,Google Ads,New Launch,Mobile,Hyderabad,Consideration,Yes,0,195,27,7333,13.85
+C0461,2026-03-25,YouTube Ads,New Launch,Mobile,Hyderabad,Interest,Yes,0,396,125,5408,31.57
+C0462,2026-03-18,Instagram Ads,Retargeting,Desktop,Chandigarh,Retention,Yes,1145,292,87,3837,29.79
+C0463,2026-04-20,Facebook Ads,Festive Offer,Desktop,Mumbai,Consideration,No,0,266,249,7168,93.61
+C0464,2026-03-16,Instagram Ads,Winter Sale,Tablet,Bangalore,Intent,No,0,396,286,7506,72.22
+C0465,2026-03-03,Instagram Ads,Search Campaign,Desktop,Bangalore,Consideration,No,0,202,195,2771,96.53
+C0466,2026-01-20,Email Marketing,Retargeting,Mobile,Hyderabad,Consideration,No,0,183,96,4086,52.46
+C0467,2026-04-03,Instagram Ads,Brand Awareness,Desktop,Jaipur,Purchase,Yes,7620,388,183,3292,47.16
+C0468,2026-03-16,LinkedIn Ads,New Launch,Mobile,Jaipur,Consideration,No,0,257,119,1578,46.3
+C0469,2026-04-27,LinkedIn Ads,Search Campaign,Tablet,Jaipur,Retention,Yes,4643,401,293,8794,73.07
+C0470,2026-01-17,LinkedIn Ads,Search Campaign,Tablet,Hyderabad,Interest,Yes,0,200,44,8713,22.0
+C0471,2026-01-29,Facebook Ads,Retargeting,Tablet,Hyderabad,Purchase,Yes,3999,398,191,2463,47.99
+C0472,2026-02-03,Email Marketing,Search Campaign,Desktop,Hyderabad,Consideration,No,0,453,189,7089,41.72
+C0473,2026-03-02,Google Ads,New Launch,Mobile,Hyderabad,Awareness,No,0,77,75,2166,97.4
+C0474,2026-01-07,Google Ads,Retargeting,Mobile,Jaipur,Retention,Yes,7253,321,172,7768,53.58
+C0475,2026-04-10,Instagram Ads,Festive Offer,Desktop,Bangalore,Intent,No,0,123,60,3954,48.78
+C0476,2026-02-27,Facebook Ads,Retargeting,Mobile,Chandigarh,Interest,No,0,374,49,1077,13.1
+C0477,2026-01-17,Email Marketing,Festive Offer,Tablet,Pune,Interest,No,0,452,410,2442,90.71
+C0478,2026-01-05,Email Marketing,Retargeting,Tablet,Jaipur,Intent,No,0,294,216,1076,73.47
+C0479,2026-01-03,LinkedIn Ads,Winter Sale,Tablet,Bangalore,Awareness,No,0,437,291,4122,66.59
+C0480,2026-01-17,Instagram Ads,Festive Offer,Tablet,Chandigarh,Interest,Yes,0,405,196,6113,48.4
+C0481,2026-02-07,YouTube Ads,Brand Awareness,Tablet,Chandigarh,Consideration,Yes,0,83,25,5885,30.12
+C0482,2026-02-13,YouTube Ads,Search Campaign,Mobile,Mumbai,Purchase,Yes,6535,272,247,3192,90.81
+C0483,2026-01-28,LinkedIn Ads,Winter Sale,Tablet,Chandigarh,Intent,Yes,0,166,77,3149,46.39
+C0484,2026-02-18,LinkedIn Ads,Search Campaign,Tablet,Chandigarh,Interest,Yes,0,237,202,1612,85.23
+C0485,2026-01-07,LinkedIn Ads,Winter Sale,Desktop,Pune,Awareness,Yes,0,388,75,1323,19.33
+C0486,2026-03-31,Google Ads,Retargeting,Tablet,Bangalore,Intent,Yes,0,330,149,8772,45.15
+C0487,2026-03-26,Email Marketing,Search Campaign,Tablet,Chandigarh,Retention,Yes,1152,204,127,2654,62.25
+C0488,2026-03-07,LinkedIn Ads,New Launch,Mobile,Jaipur,Retention,Yes,3247,264,232,2718,87.88
+C0489,2026-04-10,Facebook Ads,New Launch,Mobile,Jaipur,Awareness,Yes,0,304,121,4272,39.8
+C0490,2026-03-12,YouTube Ads,Retargeting,Tablet,Pune,Retention,Yes,7713,201,61,1645,30.35
+C0491,2026-04-27,Instagram Ads,New Launch,Tablet,Pune,Consideration,Yes,0,51,20,2458,39.22
+C0492,2026-04-03,LinkedIn Ads,Winter Sale,Desktop,Bangalore,Interest,Yes,0,449,281,2229,62.58
+C0493,2026-01-07,Instagram Ads,Retargeting,Mobile,Hyderabad,Interest,No,0,201,87,8606,43.28
+C0494,2026-02-24,LinkedIn Ads,Winter Sale,Mobile,Hyderabad,Consideration,No,0,460,366,6123,79.57
+C0495,2026-02-12,Facebook Ads,Festive Offer,Tablet,Jaipur,Awareness,Yes,0,486,90,3793,18.52
+C0496,2026-01-24,Instagram Ads,Festive Offer,Desktop,Pune,Retention,Yes,2522,240,228,6615,95.0
+C0497,2026-03-25,Google Ads,Winter Sale,Mobile,Bangalore,Consideration,No,0,403,264,7909,65.51
+C0498,2026-02-23,Email Marketing,Festive Offer,Tablet,Bangalore,Retention,Yes,1960,482,101,2699,20.95
+C0499,2026-03-20,Instagram Ads,Brand Awareness,Tablet,Mumbai,Intent,Yes,0,362,214,6875,59.12
+C0500,2026-01-06,Instagram Ads,Search Campaign,Tablet,Jaipur,Intent,No,0,107,72,8220,67.29
